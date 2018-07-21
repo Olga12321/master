@@ -1,0 +1,54 @@
+1c2fd9eb825bf530d873b990e1c42313993528a5 1 1 2
+author Olga12321
+author-mail <olga.polikhronova@motorsport.com>
+author-time 1532191257
+author-tz +0300
+committer Olga12321
+committer-mail <olga.polikhronova@motorsport.com>
+committer-time 1532191257
+committer-tz +0300
+summary my first commit
+filename local.js
+	function function_name (argument) {
+1c2fd9eb825bf530d873b990e1c42313993528a5 2 2
+		console.log()
+b0251d8bb39cd854d8c4ed0f80cf85013fca0ee1 3 3 4
+author Olga12321
+author-mail <olga.polikhronova@motorsport.com>
+author-time 1532192080
+author-tz +0300
+committer Olga12321
+committer-mail <olga.polikhronova@motorsport.com>
+committer-time 1532192080
+committer-tz +0300
+summary add console.log
+previous 1c2fd9eb825bf530d873b990e1c42313993528a5 local.js
+filename local.js
+		console.log()
+b0251d8bb39cd854d8c4ed0f80cf85013fca0ee1 4 4
+		console.log()
+b0251d8bb39cd854d8c4ed0f80cf85013fca0ee1 5 5
+		console.log()
+b0251d8bb39cd854d8c4ed0f80cf85013fca0ee1 6 6
+		console.log()
+9dff3a1572b91f9401597cabd16e519221ba5946 7 7 4
+author Olga12321
+author-mail <olga.polikhronova@motorsport.com>
+author-time 1532192176
+author-tz +0300
+committer Olga12321
+committer-mail <olga.polikhronova@motorsport.com>
+committer-time 1532192176
+committer-tz +0300
+summary new comit
+previous b0251d8bb39cd854d8c4ed0f80cf85013fca0ee1 local.js
+filename local.js
+		console.log()
+9dff3a1572b91f9401597cabd16e519221ba5946 8 8
+		console.log()
+9dff3a1572b91f9401597cabd16e519221ba5946 9 9
+		console.log()
+9dff3a1572b91f9401597cabd16e519221ba5946 10 10
+		
+1c2fd9eb825bf530d873b990e1c42313993528a5 3 11 1
+	}
